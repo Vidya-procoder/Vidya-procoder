@@ -1,6 +1,4 @@
-# portfolio
-
-# Hi , I'm Vidyasri DK
+# Hi 🖐 , I'm Vidyasri DK
 
 👩🏻‍💻 Currently pursuing B.Tech Information Technology 3rd year at K.S.Rangasamy College Of Technology
 💻 Aspiring full-stack developer and ML enthusiast, passionate about building dynamic and user-centric applications. I thrive in both front-end and back-end development and have a deep interest in UI/UX design and AI integration
